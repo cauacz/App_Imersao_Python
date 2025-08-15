@@ -2,10 +2,10 @@
 Dashboard interativo de Análise de Salários na Área de Dados.
 
 ## Descrição
-Este projeto foi desenvolvido durante a Imersão de Dados com Python promovida pela Alura.
+Este projeto foi desenvolvido durante a `Imersão de Dados com Python` promovida pela `Alura.`
 O objetivo é explorar e analisar informações salariais na área de dados por meio de um dashboard interativo, permitindo filtrar e visualizar dados de acordo com diferentes parâmetros, como cargo, senioridade, tipo de contrato e localização.
 
-## Funionalidades
+## Funcionalidades
 Filtros dinâmicos na barra lateral:
 * Ano
 * Senioridade
@@ -26,7 +26,7 @@ Visualizações interativas:
 
 Tabela detalhada com todos os registros filtrados
 ## Bibliotecas Utilizadas
-* Pandas, Numpy, Plotly, Matplotlib, Seaborn, PyCoutry, Streamlit
+* `Pandas`, `Numpy`, `Plotly`, `Matplotlib`, `Seaborn`, `PyCoutry`, `Streamlit`
 
 ## Ambientes Utilizados
 * Google Colab e VSCode
